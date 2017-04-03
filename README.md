@@ -1,2 +1,2 @@
 # Sql-Data-Base
-Social NetWork data Base 
+Create Social NetWork with relashionship
